@@ -6,7 +6,7 @@ require (
 	github.com/gookit/goutil v0.6.18
 	github.com/kongmsr/oneid-core v0.4.1
 	github.com/zeromicro/go-zero v1.7.6
-	google.golang.org/grpc v1.72.1
+	google.golang.org/grpc v1.72.2
 )
 
 require (
