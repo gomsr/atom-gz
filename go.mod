@@ -3,7 +3,7 @@ module github.com/gomsr/atom-gz
 go 1.23.1
 
 require (
-	github.com/gookit/goutil v0.6.18
+	github.com/gookit/goutil v0.7.3
 	github.com/kongmsr/oneid-core v0.4.1
 	github.com/zeromicro/go-zero v1.7.6
 	google.golang.org/grpc v1.72.1
